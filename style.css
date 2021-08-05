@@ -1,0 +1,30 @@
+/* Header-Style */
+.header-bg{
+    color: white;
+    background-color: #264653;
+}
+.buttons{
+    color: white;
+    background-color: #E76F51;
+}
+.menu{
+    color: white;
+}
+.default-color{
+    color: #E76F51;
+}
+/* Featured-Bike */
+.gray{
+    filter: grayscale(100%);
+}
+/* Latest News */
+.checked{
+    color: orange;
+}
+.subscribe-bg{
+    background-color: #fceae8;
+}
+.footer-bg{
+    color: white;
+    background-color: #264653;
+}
