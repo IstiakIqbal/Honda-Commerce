@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Johny FPV",
+        "img": "https://i1.wp.com/culturefpv.fr/wp-content/uploads/2018/06/Johnny-FPV.jpg?ssl=1.jpg",
+        "type": "Cinewhoop",
+        "controller": "TX16S",
+        "key": 111,
+        "from": "Cappadocia, Turkey",
+        "Salary": 1300
+    },
+    {
+        "name": "Peter McKinnon",
+        "img": "https://i1.wp.com/culturefpv.fr/wp-content/uploads/2018/06/Johnny-FPV.jpg?ssl=1.jpg",
+        "type": "DJI Inspire-2",
+        "controller": "QX7",
+        "key": 112,
+        "from": "Ontario, Canada",
+        "Salary": 1200
+    },
+    {
+        "name": "Casey Neistat",
+        "img": "https://www.thefamouspeople.com/profiles/thumbs/casey-neistat-4.jpg",
+        "type": "Mavic Mini",
+        "controller": "X9D Plus",
+        "key": 113,
+        "from": "New York, America",
+        "Salary": 1100
+    },
+    {
+        "name": "Niklas Christl",
+        "img": "https://yt3.ggpht.com/635RoVd6LJNUwzZ_7poCW-AG-YAmarVRXpzzkeFa-stTB8Mx-mO2RlTWeh9T-Nnpz5PBLe9wQ2pdAHo=s800-nd",
+        "type": "DJI FPV",
+        "controller": "DJI Digital",
+        "key": 114,
+        "from": "Munich, Germany",
+        "Salary": 800
+    },
+    {
+        "name": "Istiak Iqbal",
+        "img": "https://pbs.twimg.com/profile_images/1094850512615297024/VPr4P4wJ_400x400.jpg",
+        "type": "Cinewhoop",
+        "controller": "TX16S(Hall Version)",
+        "key": 115,
+        "from": "Chittagong, Bangladesh",
+        "Salary": 2000
+    },
+    {
+        "name": "Shamrat Neero",
+        "img": "https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.6435-9/79340950_557524724806047_3159764468519403520_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEaH0pH1v_spVacVvurp4hv_9i4dK_YmeT_2Lh0r9iZ5FwI1nniNgRmOZmAp2V9IhERRXG1DC1hN4ATBtij59Wz&_nc_ohc=zGjdTNhPi-gAX-b1qyd&_nc_ht=scontent.fcgp3-1.fna&oh=a79d94bfe4050514e69b82e3771d4af7&oe=6176F50B",
+        "type": "Cinewhoop",
+        "controller": "TX16S",
+        "key": 116,
+        "from": "Dhaka, Bangladesh",
+        "Salary": 900
+    },
+    {
+        "name": "Akif Ahi",
+        "img": "https://media-exp1.licdn.com/dms/image/C5603AQFaBkfyW2TL1A/profile-displayphoto-shrink_800_800/0/1620094928459?e=1638403200&v=beta&t=l_RuroXXA2LX_vZh6xRv5dburSOZyzyArxcjFx4HKdM",
+        "type": "Tinywhoop",
+        "controller": "X9D plus",
+        "key": 117,
+        "from": "Dhaka, Bangladesh",
+        "Salary": 1400
+    },
+    {
+        "name": "Kiwi",
+        "img": "https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.6435-9/69177751_2397001860390229_7357579531269439488_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=a26aad&_nc_eui2=AeGE9WCl1mlzsvTEB2EgEcU_Ud-3utxErVVR37e63EStVQXzslIHB4T3SXcwUJUMC2mRVzV55Wkf2z5n9oARXemN&_nc_ohc=8G9tBxkPApwAX909RL7&tn=o4jy4wVcGVy0OT_6&_nc_ht=scontent.fcgp3-1.fna&oh=27f5ac477e1708486afb8d318ee6dc37&oe=6174E19B",
+        "type": "Cinewhoop",
+        "controller": "TX16S",
+        "key": 118,
+        "from": "Ducth,Germany",
+        "Salary": 1300
+    },
+    {
+        "name": "Ellis van Jason",
+        "img": "https://cdn.fs.teachablecdn.com/gACpr1XfROWcFDrIYNsQ",
+        "type": "Racing Drone",
+        "controller": "TX16S Max",
+        "key": 119,
+        "from": "Cappadocia, Turkey",
+        "Salary": 1900
+    },
+    {
+        "name": "Frey Bott",
+        "img": "https://i1.wp.com/culturefpv.fr/wp-content/uploads/2018/06/Johnny-FPV.jpg?ssl=1.jpg",
+        "type": "Cinequads",
+        "controller": "TX16S",
+        "key": 121,
+        "from": "Cappadocia, Turkey",
+        "Salary": 1300
+    },
+    {
+        "name": "Sam Kolder",
+        "img": "https://pbs.twimg.com/profile_images/1200443317848281089/n-7sKkQX_400x400.jpg",
+        "type": "Mavic-Air",
+        "controller": "Dji",
+        "key": 122,
+        "from": "Los Angeles, California",
+        "Salary": 3000
+    },
+    {
+        "name": "Harry Styles",
+        "img": "https://www.famousbirthdays.com/faces/styles-harry-image.jpg",
+        "type": "Cinewhoop",
+        "controller": "T18",
+        "key": 123,
+        "from": "Redditch, England",
+        "Salary": 500
+    }
+]
